@@ -1,5 +1,5 @@
-**Roadmap to Cyberneticus and Its Vision as an AI in 2025 (Q1 - Q4)
-**
+**Roadmap to Cyberneticus and Its Vision as an AI in 2025 (Q1 - Q4)**
+
 **Q1 2025**
 Research and Development
 Algorithm Optimization
